@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" alt="William McDonald — Computational Intelligence Scientist" width="100%" />
+</p>
+
+
 # William McDonald
 
 ### Computational Intelligence Scientist
